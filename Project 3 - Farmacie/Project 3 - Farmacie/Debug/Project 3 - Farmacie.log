@@ -1,0 +1,15 @@
+﻿  Project 3 - Farmacie.cpp
+C:\Users\ASUS\Desktop\POO Lab 20\Project 3 - Farmacie\Project 3 - Farmacie\Project 3 - Farmacie.cpp(86,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\POO Lab 20\Project 3 - Farmacie\Project 3 - Farmacie\Project 3 - Farmacie.cpp(102,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\POO Lab 20\Project 3 - Farmacie\Project 3 - Farmacie\Project 3 - Farmacie.cpp(106,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\POO Lab 20\Project 3 - Farmacie\Project 3 - Farmacie\Project 3 - Farmacie.cpp(93,20): warning C4101: 'a': unreferenced local variable
+C:\Users\ASUS\Desktop\POO Lab 20\Project 3 - Farmacie\Project 3 - Farmacie\Project 3 - Farmacie.cpp(113,24): warning C4101: 'a': unreferenced local variable
+C:\Users\ASUS\Desktop\POO Lab 20\Project 3 - Farmacie\Project 3 - Farmacie\Project 3 - Farmacie.cpp(135,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\POO Lab 20\Project 3 - Farmacie\Project 3 - Farmacie\Project 3 - Farmacie.cpp(214,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\POO Lab 20\Project 3 - Farmacie\Project 3 - Farmacie\Project 3 - Farmacie.cpp(233,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\POO Lab 20\Project 3 - Farmacie\Project 3 - Farmacie\Project 3 - Farmacie.cpp(221,20): warning C4101: 'a': unreferenced local variable
+C:\Users\ASUS\Desktop\POO Lab 20\Project 3 - Farmacie\Project 3 - Farmacie\Project 3 - Farmacie.cpp(240,20): warning C4101: 'a': unreferenced local variable
+C:\Users\ASUS\Desktop\POO Lab 20\Project 3 - Farmacie\Project 3 - Farmacie\Project 3 - Farmacie.cpp(453,13): warning C4101: 'op2': unreferenced local variable
+C:\Users\ASUS\Desktop\POO Lab 20\Project 3 - Farmacie\Project 3 - Farmacie\Project 3 - Farmacie.cpp(555,23): warning C4101: 'i': unreferenced local variable
+C:\Users\ASUS\Desktop\POO Lab 20\Project 3 - Farmacie\Project 3 - Farmacie\Project 3 - Farmacie.cpp(565,24): warning C4101: 'a': unreferenced local variable
+  Project 3 - Farmacie.vcxproj -> C:\Users\ASUS\Desktop\POO Lab 20\Project 3 - Farmacie\Debug\Project 3 - Farmacie.exe
